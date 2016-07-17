@@ -1,1 +1,0 @@
-install_name_tool -change /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/PyQt5/QtCore.so /Users/uehara/miniconda3/envs/tesserect/lib/python3.5/site-packages/PyQt5/QtCore.so /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/PyQt5/QtCore.so 
